@@ -11,3 +11,6 @@ Form Ease has you covered whether you're a teacher trying to make enjoyable and 
 This website was created using HTML, CSS, and JavaScript. It will utilise the content from sheets to create quizzes and then use the quiz structure created from the json file.
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1xa5bCHfBd3wcRsMSWNGC-WT0FsOntJeB2faru0R1GcE/edit#gid=0">Gsheet format to upload the the quiz sheet</a></h3>
+<h2>ScreenShots</h2>
+<h3><a href="https://ibb.co/n0N6JsB"</a></h3>
+  <h3> <a href="https://ibb.co/G0wfCQq"</a></h3>
