@@ -13,11 +13,18 @@ let uid;
 var result = []
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
-    info_box.classList.add("activeInfo"); //show info box
+     //show info box
     let url = document.getElementById("urlsubmit").value
     let urlid = url.split("/")
     uid=urlid[5]
-    getJsonFromCSV()
+    console.log(document.getElementById("urlsubmit").value.length)
+    if(document.getElementById("urlsubmit").value.length!=0){
+        info_box.classList.add("activeInfo");
+        getJsonFromCSV()
+    }else{
+        alert("Please paste the gsheet link")
+    }
+    
 }
 
 // if exitQuiz button clicked
@@ -237,7 +244,7 @@ function getJsonFromCSV() {
 
                 data.forEach(element => {
                   let item = {
-                    numb: element.slno,
+                    numb: element.qno,
                     question: element.question,
                     answer: element.answer,
                     options: [
