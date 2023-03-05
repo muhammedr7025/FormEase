@@ -12,5 +12,5 @@ This website was created using HTML, CSS, and JavaScript. It will utilise the co
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1xa5bCHfBd3wcRsMSWNGC-WT0FsOntJeB2faru0R1GcE/edit#gid=0">Gsheet format to upload the the quiz sheet</a></h3>
 <h2>ScreenShots</h2>
-<h3><a href="https://ibb.co/n0N6JsB"</a></h3>
-  <h3> <a href="https://ibb.co/G0wfCQq"</a></h3>
+<a href="https://ibb.co/n0N6JsB"><img src="https://i.ibb.co/sPdbYvC/Screenshot-2023-03-05-at-4-10-58-PM.png" alt="Screenshot-2023-03-05-at-4-10-58-PM" border="0"></a>
+<a href="https://ibb.co/G0wfCQq"><img src="https://i.ibb.co/vH5CL4S/Screenshot-2023-03-05-at-4-11-12-PM.png" alt="Screenshot-2023-03-05-at-4-11-12-PM" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>img to url</a><br />
